@@ -1,0 +1,6 @@
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\bin\Debug\ActivoFijo.Core.dll
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\bin\Debug\ActivoFijo.Core.pdb
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\obj\Debug\ActivoFijo.Core.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\obj\Debug\ActivoFijo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\obj\Debug\ActivoFijo.Core.dll
+C:\Users\Administrador\source\repos\ActivoFijo.AppWeb\ActivoFijo.Core\obj\Debug\ActivoFijo.Core.pdb
